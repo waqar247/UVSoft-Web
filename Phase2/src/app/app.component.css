@@ -1,0 +1,20 @@
+
+  footer{
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;	
+  }
+  #page-footer {
+    background-color: #252525;
+        color: #767778;
+    padding-top:45px;
+    padding-bottom:45px;
+  }
+  #careers{
+    background-color: #F2F2F2;
+    padding-top:45px;
+    padding-bottom:45px;
+    text-align:center;
+    font-family:calibri;
+  }

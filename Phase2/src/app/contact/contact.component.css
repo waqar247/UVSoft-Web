@@ -1,0 +1,22 @@
+#header{
+    background-size:100%;
+    width:100%;
+    padding-bottom:36.5%;
+    overflow:hidden;
+    margin-top:-20px;
+  }
+.texthead{
+    margin-top: 40px;
+    padding-top: 20px;
+    font-family: Calibri;
+    line-height: 2;
+}
+.Textdes{
+    letter-spacing: 2;
+    text-indent: 50px;
+    font-size: 17px;
+}
+.contacttext{
+    letter-spacing: 2;
+    font-size: 17px;
+}
